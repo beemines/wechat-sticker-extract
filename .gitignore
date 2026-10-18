@@ -1,0 +1,27 @@
+# Local environments and generated Python files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Private account data and local extraction outputs
+wechat_emoji/
+xwechat_files/
+db_storage/
+secrets/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.verification.json
+
+# Local QA and editor files
+.qa/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

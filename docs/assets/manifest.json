@@ -1,0 +1,35 @@
+{
+  "kind": "redrawn interfaces, not live recording; existing character GIFs as workflow examples",
+  "video": {
+    "width": 1440,
+    "height": 900,
+    "fps": 20,
+    "duration_seconds": 18,
+    "audio": false
+  },
+  "samples": [
+    {
+      "file": "magical-girl.gif",
+      "frames": 64,
+      "duration_ms": 4270,
+      "md5": "75ef64a774307312b828f1f976679c9d"
+    },
+    {
+      "file": "blue-scissors.gif",
+      "frames": 64,
+      "duration_ms": 4270,
+      "md5": "abeca76d3721244606b58c55dc9b1a45"
+    }
+  ],
+  "assets": [
+    "blue-scissors.gif",
+    "demo-chat.png",
+    "demo-overview.png",
+    "demo-request.png",
+    "demo-result.png",
+    "magical-girl.gif",
+    "window-shot.png",
+    "workflow-demo.mp4",
+    "workflow-preview.gif"
+  ]
+}

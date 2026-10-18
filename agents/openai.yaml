@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信原始动图提取"
+  short_description: "从 Windows 微信指定聊天提取原始表情动图，支持未收藏、添加失败和截图定位。"
+  default_prompt: "使用 $wechat-sticker-extract 提取我指定的微信表情原始动图，核验后保存到当前工作目录下的 wechat_emoji 文件夹。"
